@@ -22,7 +22,9 @@ As the project is in its early stage, this documentation will update gradually i
 
 ## Available Themes
 
-*TBD*
+Currently, there are addons for following themes:
+
+- [mint](https://github.com/Hyperzsb/typora-themes-addon/tree/main/mint)
 
 ## User Guide
 
@@ -38,4 +40,4 @@ As the project is in its early stage, this documentation will update gradually i
 
 ## License
 
-*TBD*
+This project is under [MIT License](https://github.com/Hyperzsb/typora-themes-addon/blob/main/LICENSE).
